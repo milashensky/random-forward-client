@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 `API_ID` and `API_HASH` are issued by telegram at https://my.telegram.org/apps.
 
-`TO_CHANNEL` and `FROM_CHANNEL` can be invite links, or chat/chanel ids.
+`TO_CHANNEL` and `FROM_CHANNEL` can be invite links, or chat/channel ids.
 
 `SESSION_PATH` file name/path to store session. if not specified, login will be prompted on each run.
 
